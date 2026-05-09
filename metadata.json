@@ -1,0 +1,12 @@
+{
+  "name": "MangoPalm AI",
+  "description": "Professional agricultural intelligence platform for fruit identification, quality grading, and market analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Vision Analysis",
+    "Market Rate Tracking",
+    "Supply Chain Traceability"
+  ]
+}
